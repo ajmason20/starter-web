@@ -16,3 +16,6 @@ As stated above above, the main purpose is to provide simple examples for Git tr
 
 ## How to Contribute
 
+### Copyright
+
+2019 Git.Training
