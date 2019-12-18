@@ -16,6 +16,8 @@ As stated above above, the main purpose is to provide simple examples for Git tr
 
 ## How to Contribute
 
+Please review this repository and then issue Pull Requests for review.
+
 ### Copyright
 
 2019 Git.Training
