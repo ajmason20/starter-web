@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<!--
+	Copyright 2019 Git.Training
+<<<<<<< HEAD
+	Adding changes before rebasing conflics.
+	Some silly changes.
+=======
+	These changes are from the branch bigtrouble.
+>>>>>>> feature branch adding some troulb eot simple.html
+-->
+<head>
+	<title>Lots of trouble</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+<<<<<<< HEAD
+			Just some simple content, very silly.
+=======
+			Nothin' but trouble.
+>>>>>>> feature branch adding some troulb eot simple.html
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Company 2020</p>
+	</footer>
+</body>
+</html>
